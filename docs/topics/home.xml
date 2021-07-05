@@ -31,10 +31,16 @@ id="home">
             <a href="roadmap.md" description="What to expect in the future">Kotlin public roadmap</a>
         </highlighted-group>
         <custom-groups>
-            <group>
-                <title>Kotlin YouTube channel</title>
-                <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmxOJL0GSSZ1Vot4KL2Vwe7x" description="Kotlin 1.5.0">Kotlin in Spring Framework</a>
-                <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1" description="Kotlin 1.5.0">Webinars with experts</a>
+            <group type="cards">
+                <title>Custom cards</title>
+                    <a href="basic-syntax.md" description="Sed condimentum feugiat sagittis"/>
+            </group>
+            <group type="links" display="normal">
+                <link-collection>
+                    <title>Kotlin YouTube channel</title>
+                    <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmxOJL0GSSZ1Vot4KL2Vwe7x" description="Kotlin 1.5.0">Kotlin in Spring Framework</a>
+                    <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1" description="Kotlin 1.5.0">Webinars with experts</a>
+                </link-collection>
             </group>
         </custom-groups>
     </section-starting-page>
