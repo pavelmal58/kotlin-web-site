@@ -60,12 +60,12 @@ id="home">
             <group type="links" display="normal">
                 <link-collection>
                     <title>Stay in touch and contribute</title>
-                    <a href="contribute.md">Contribute to Kotlin</a>
-                    <a href="eap.md">Participate in Early Access Program</a>
-                    <a href="https://surveys.jetbrains.com/s3/kotlin-slack-sign-up">Join Kotlin Slack</a>
-                    <a href="https://twitter.com/kotlin">Follow Kotlin on Twitter</a>
-                    <a href="https://www.reddit.com/r/Kotlin/">Chat on Reddit</a>
-                    <a href="https://stackoverflow.com/questions/tagged/kotlin">Participate in Stack Overflow discussions</a>
+                    <a href="contribute.md" description="Kotlin 1.5.0">Contribute to Kotlin</a>
+                    <a href="eap.md" description="Kotlin 1.5.0">Participate in Early Access Program</a>
+                    <a href="https://surveys.jetbrains.com/s3/kotlin-slack-sign-up" description="Kotlin 1.5.0">Join Kotlin Slack</a>
+                    <a href="https://twitter.com/kotlin" description="Kotlin 1.5.0">Follow Kotlin on Twitter</a>
+                    <a href="https://www.reddit.com/r/Kotlin/" description="Kotlin 1.5.0">Chat on Reddit</a>
+                    <a href="https://stackoverflow.com/questions/tagged/kotlin" description="Kotlin 1.5.0">Participate in Stack Overflow discussions</a>
                 </link-collection>
             </group>
         </custom-groups>
